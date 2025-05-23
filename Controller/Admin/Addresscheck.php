@@ -26,7 +26,7 @@ class Addresscheck extends AdminController
         $oOrder = oxNew("oxorder");
         if($oOrder->load($soxId)) {
             $this->_aViewData['mojoamsstatus'] = explode(",",$oOrder->oxorder__mojoamsstatus->rawValue);
-            $this->_aViewData['mojoamsts'] = date("d-m-Y H:i:s",$oOrder->oxorder__mojoamsts->rawValue);
+            $this->_aViewData['mojoamsts'] = date("d-m-Y H:i:s",intval($oOrder->oxorder__mojoamsts->rawValue));
             $this->_aViewData['mojoamspredictions'] = $this->getPredictions($oOrder->oxorder__mojoamspredictions->rawValue);
             $this->_aViewData['mojonamescore'] = $oOrder->oxorder__mojonamescore->rawValue;
         }
