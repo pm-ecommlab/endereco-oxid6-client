@@ -2,8 +2,8 @@
 
 [{if $mojoamsstatus}]
 <div style="margin-top: 10px;margin-left: 10px;">
-Endereco - letzte Pürfung:
-<table cellspacing="0" cellpadding="2px" border="1px" width="500px">
+    [{oxmultilang ident="ENDERECO_LAST_CHECK" suffix="COLON"}]
+<table cellspacing="0" cellpadding="1px" border="0px" width="500px">
     <tr>
         <td valign="top" class="edittext">
             [{oxmultilang ident="ENDERECO_CHECK_STATUS" suffix="COLON"}]

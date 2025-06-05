@@ -5,11 +5,11 @@
     <td colspan="2" height="5px"></td>
 </tr>
 <tr>
-    <td colspan="2" height="5px">Endereco - letzte Prüfung</td>
+    <td colspan="2" height="5px">[{oxmultilang ident="ENDERECO_LAST_CHECK" suffix="COLON"}]</td>
 </tr>
 <tr>
     <td colspan="2">
-    <table cellspacing="0" cellpadding="2px" border="1px" width="500px">
+    <table cellspacing="0" cellpadding="1px" border="0px" width="500px">
         <tr>
             <td valign="top" class="edittext">
                 [{oxmultilang ident="ENDERECO_CHECK_STATUS" suffix="COLON"}]

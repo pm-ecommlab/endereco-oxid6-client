@@ -6,6 +6,16 @@ namespace Endereco\Oxid6Client\Controller\Admin;
 class UserAddress extends UserAddress_parent
 {
 
+    private $predictions = [
+        'countryCode',
+        'postalCode',
+        'locality',
+        'streetName',
+        'buildingNumber',
+        'subdevisionCode',
+        'additionalInfo'
+    ];
+
     public function render()
     {
         $tplName = parent::render();

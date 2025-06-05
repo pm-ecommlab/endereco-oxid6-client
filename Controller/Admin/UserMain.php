@@ -5,6 +5,16 @@ namespace Endereco\Oxid6Client\Controller\Admin;
 class UserMain extends UserMain_parent
 {
 
+    private $predictions = [
+        'countryCode',
+        'postalCode',
+        'locality',
+        'streetName',
+        'buildingNumber',
+        'subdevisionCode',
+        'additionalInfo'
+    ];
+
     /** @inheritdoc */
     public function render()
     {

@@ -385,4 +385,5 @@ $aLang = [
     'ENDERECO_CHECK_TS' => 'Datum der Prüfung',
     'ENDERECO_CHECK_PREDICTIONS' => 'Korrekturvorschläge',
     'ENDERECO_CHECK_NAMESCORE' => 'Ergebnis der Namenesprüfung',
+    'ENDERECO_LAST_CHECK' => 'endereco - letzte Pürfung'
 ];
