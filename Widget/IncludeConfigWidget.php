@@ -159,11 +159,7 @@ class IncludeConfigWidget extends \OxidEsales\Eshop\Application\Component\Widget
 
             $aStates[$fullStateCode] = $stateName;
             $aStatesMapping[mb_strtoupper($fullStateCode)] = $stateId;
-
-            if (!isset($aStatesMappingReverse[$countryCode])) {
-                $aStatesMappingReverse[$countryCode] = [];
-            }
-            $aStatesMappingReverse[$countryCode][$stateId] = mb_strtoupper($fullStateCode);
+            $aStatesMappingReverse[$stateId] = mb_strtoupper($fullStateCode);
         }
 
         $this->_aViewData['enderecoclient']['oSubdivisions'] = json_encode($aStates);

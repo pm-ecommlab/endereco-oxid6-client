@@ -12,7 +12,7 @@ module.exports = {
     filename: 'endereco.min.js'
   },
   optimization: {
-    minimize: true,
+    minimize: false,
     minimizer: [new TerserPlugin({
       terserOptions: {
         output: {
@@ -77,7 +77,7 @@ module.exports = {
   performance: {
     hints: false
   },
-  devtool: false,
+  devtool: "source-map",
   plugins: [
   ]
 };
