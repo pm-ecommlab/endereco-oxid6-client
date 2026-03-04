@@ -45,5 +45,6 @@ $aLang = [
     'ENDERECOOXID6CLIENT_STATUS_localityNeedsCorrection' => 'The spelling of the locality is incorrect.',
     'ENDERECOOXID6CLIENT_STATUS_postalCodeNeedsCorrection' => 'The postal code is invalid.',
     'ENDERECOOXID6CLIENT_STATUS_countryCodeNeedsCorrection' => 'The entered address was found in another country.',
+    'ENDERECOOXID7CLIENT_SELECT_COUNTRY_FIRST' => 'Please select a country first.',
 ];
 

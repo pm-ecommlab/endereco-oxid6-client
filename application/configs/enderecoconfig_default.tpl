@@ -1,10 +1,11 @@
 [{assign var="sitepath" value=$oViewConf->getBaseDir()}]
 
 [{if
-    !$enderecoclient.bAllowControllerFilter ||
-    $enderecoclient.sControllerClass|in_array:$enderecoclient.aAllowedControllerClasses ||
-    ('order' == $enderecoclient.sControllerClass && $enderecoclient.sCHECKALL)
+!$enderecoclient.bAllowControllerFilter ||
+$enderecoclient.sControllerClass|in_array:$enderecoclient.aAllowedControllerClasses ||
+('order' == $enderecoclient.sControllerClass && $enderecoclient.sCHECKALL)
 }]
+
     [{assign var="popUpHeadline" value="ENDERECOOXID6CLIENT_POPUP_HEADLINE"|oxmultilangassign}]
     [{assign var="popUpSubline" value="ENDERECOOXID6CLIENT_POPUP_SUBLINE"|oxmultilangassign}]
 
@@ -35,6 +36,7 @@
     [{assign var="localityNeedsCorrection" value="ENDERECOOXID6CLIENT_STATUS_localityNeedsCorrection"|oxmultilangassign}]
     [{assign var="postalCodeNeedsCorrection" value="ENDERECOOXID6CLIENT_STATUS_postalCodeNeedsCorrection"|oxmultilangassign}]
     [{assign var="countryCodeNeedsCorrection" value="ENDERECOOXID6CLIENT_STATUS_countryCodeNeedsCorrection"|oxmultilangassign}]
+    [{assign var="selectCountryFirst" value="ENDERECOOXID6CLIENT_SELECT_COUNTRY_FIRST"|oxmultilangassign}]
 
     <script>
         function enderecoLoadAMSConfig() {
@@ -71,6 +73,7 @@
                 'confirmAddress': '[{$confirmAddress|escape:quotes}]',
                 'editAddress': '[{$editAddress|escape:quotes}]',
                 'warningText': '[{$warningText|escape:quotes}]',
+                'selectCountryFirst': '[{$selectCountryFirst|escape:quotes}]',
                 'popupHeadlines': {
                     'general_address': '[{$generalAddress|escape:quotes}]',
                     'billing_address': '[{$billingAddress|escape:quotes}]',
@@ -125,4 +128,6 @@
 
     <script async defer src="[{$oViewConf->getModuleUrl('endereco-oxid6-client', 'out/assets/js/endereco.min.js')}]?ver=[{$enderecoclient.sModuleVersion}]"></script>
     [{oxid_include_widget cl="enderecocolor"}]
-[{/if}]
+    [{/if}]
+
+

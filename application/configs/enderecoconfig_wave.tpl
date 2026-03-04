@@ -36,6 +36,7 @@
     [{assign var="localityNeedsCorrection" value="ENDERECOOXID6CLIENT_STATUS_localityNeedsCorrection"|oxmultilangassign}]
     [{assign var="postalCodeNeedsCorrection" value="ENDERECOOXID6CLIENT_STATUS_postalCodeNeedsCorrection"|oxmultilangassign}]
     [{assign var="countryCodeNeedsCorrection" value="ENDERECOOXID6CLIENT_STATUS_countryCodeNeedsCorrection"|oxmultilangassign}]
+    [{assign var="selectCountryFirst" value="ENDERECOOXID6CLIENT_SELECT_COUNTRY_FIRST"|oxmultilangassign}]
 
     <script>
         function enderecoLoadAMSConfig() {
@@ -72,6 +73,7 @@
                 'confirmAddress': '[{$confirmAddress|escape:quotes}]',
                 'editAddress': '[{$editAddress|escape:quotes}]',
                 'warningText': '[{$warningText|escape:quotes}]',
+                'selectCountryFirst': '[{$selectCountryFirst|escape:quotes}]',
                 popupHeadlines: {
                     'general_address': '[{$generalAddress|escape:quotes}]',
                     'billing_address': '[{$billingAddress|escape:quotes}]',

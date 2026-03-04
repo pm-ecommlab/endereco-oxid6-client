@@ -45,5 +45,6 @@ $aLang = [
     'ENDERECOOXID6CLIENT_STATUS_localityNeedsCorrection' => 'Die Schreibweise des Ortes ist fehlerhaft.',
     'ENDERECOOXID6CLIENT_STATUS_postalCodeNeedsCorrection' => 'Die PLZ ist ungültig.',
     'ENDERECOOXID6CLIENT_STATUS_countryCodeNeedsCorrection' => 'Die eingegebene Adresse wurde in einem anderen Land gefunden.',
+    'ENDERECOOXID6CLIENT_SELECT_COUNTRY_FIRST' => 'Bitte wählen Sie zuerst ein Land aus.',
 ];
 
