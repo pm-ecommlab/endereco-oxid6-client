@@ -104,11 +104,13 @@ class EnderecoService
                 'method' => 'addressCheck',
                 'params' => [
                     'country' => $address['countryCode'],
+                    'subdivisonCode' => $address['subdivisonCode'],
                     'language' => $address['__language'],
                     'postCode' => $address['postalCode'],
                     'cityName' => $address['locality'],
                     'street' => $address['streetName'],
-                    'houseNumber' => $address['buildingNumber']
+                    'houseNumber' => $address['buildingNumber'],
+                    'additionalInfo' => $address['additionalInfo']
                 ]
             ];
             $client = new Client(['timeout' => 6.0]);
@@ -143,6 +145,9 @@ class EnderecoService
                     );
                     if (array_key_exists('additionalInfo', $prediction)) {
                         $tempAddress['additionalInfo'] = $prediction['additionalInfo'];
+                    }
+                    if (array_key_exists('subdivisionCode', $prediction)) {
+                        $tempAddress['subdivisionCode'] = $prediction['subdivisionCode'];
                     }
 
                     $predictions[] = $tempAddress;
