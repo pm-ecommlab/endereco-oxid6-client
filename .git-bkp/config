@@ -1,0 +1,32 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:pm-ecommlab/endereco-oxid6-client.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "feature/show-results-in-admin"]
+	remote = origin
+	merge = refs/heads/feature/show-results-in-admin
+	vscode-merge-base = origin/feature/show-results-in-admin
+[branch "fix/paypal-express-check"]
+	remote = origin
+	merge = refs/heads/fix/paypal-express-check
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "feature/issue-29-js-sdk-update"]
+	vscode-merge-base = origin/master
+	vscode-merge-base = origin/master
+[branch "feature/latest-sdk-fake-forms"]
+	remote = origin
+	merge = refs/heads/feature/latest-sdk-fake-forms
+[branch "feature/extend-qa-tooling"]
+	remote = origin
+	merge = refs/heads/feature/extend-qa-tooling
+[branch "feature/update-sdk-1.14"]
+	remote = origin
+	merge = refs/heads/feature/update-sdk-1.14

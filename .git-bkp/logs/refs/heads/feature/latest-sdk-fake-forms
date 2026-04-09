@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 a142ea0d0e63833a915d53219a4a675b21f6eec4 Pavel Mihaylov <pm@ecommlab.de> 1768291971 +0200	branch: Created from origin/feature/latest-sdk-fake-forms
+a142ea0d0e63833a915d53219a4a675b21f6eec4 74c30c17653fb9dbb636272d4123b547f2a88792 Pavel Mihaylov <pm@ecommlab.de> 1768293022 +0200	commit (amend): Update JS-SDK to latest version and adapt OXID forms
+74c30c17653fb9dbb636272d4123b547f2a88792 5d35f96abd10f840d74e347aed26cb029666bee6 Pavel Mihaylov <pm@ecommlab.de> 1771777941 +0200	commit: Update SDK to 1.14
+5d35f96abd10f840d74e347aed26cb029666bee6 331808a409bb7cce6b74d895cb9148927efc8d74 Pavel Mihaylov <pm@ecommlab.de> 1771777968 +0200	merge master: Merge made by the 'ort' strategy.

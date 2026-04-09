@@ -1,0 +1,56 @@
+0000000000000000000000000000000000000000 0af1635b052d35fae7836cbea26321977cf83f1a Pavel Mihaylov <pm@ecommlab.de> 1747384483 +0300	clone: from github.com:pm-ecommlab/endereco-oxid6-client.git
+0af1635b052d35fae7836cbea26321977cf83f1a 57dae898707b748ebcb8aae4be6723b84e90bb62 Pavel Mihaylov <pm@ecommlab.de> 1747384586 +0300	checkout: moving from master to feature/show-results-in-admin
+57dae898707b748ebcb8aae4be6723b84e90bb62 a144a78e71600b65dc8239858f420e8a1e680372 Pavel Mihaylov <pm@ecommlab.de> 1748005167 +0300	commit: Anpassung - mojoamsts auf int casten
+a144a78e71600b65dc8239858f420e8a1e680372 0af1635b052d35fae7836cbea26321977cf83f1a Pavel Mihaylov <pm@ecommlab.de> 1749114818 +0300	checkout: moving from feature/show-results-in-admin to master
+0af1635b052d35fae7836cbea26321977cf83f1a 0af1635b052d35fae7836cbea26321977cf83f1a Pavel Mihaylov <pm@ecommlab.de> 1749114845 +0300	checkout: moving from master to fix/paypal-express-check
+0af1635b052d35fae7836cbea26321977cf83f1a 4744ee2ee75ae22d82c789ec2822d671131b23f7 Pavel Mihaylov <pm@ecommlab.de> 1749133067 +0300	commit: Extension of the new Payment ID for the PayPal Checkout module.
+4744ee2ee75ae22d82c789ec2822d671131b23f7 a144a78e71600b65dc8239858f420e8a1e680372 Pavel Mihaylov <pm@ecommlab.de> 1749133081 +0300	checkout: moving from fix/paypal-express-check to feature/show-results-in-admin
+a144a78e71600b65dc8239858f420e8a1e680372 4744ee2ee75ae22d82c789ec2822d671131b23f7 Pavel Mihaylov <pm@ecommlab.de> 1749133379 +0300	checkout: moving from feature/show-results-in-admin to fix/paypal-express-check
+4744ee2ee75ae22d82c789ec2822d671131b23f7 a144a78e71600b65dc8239858f420e8a1e680372 Pavel Mihaylov <pm@ecommlab.de> 1749133381 +0300	checkout: moving from fix/paypal-express-check to feature/show-results-in-admin
+a144a78e71600b65dc8239858f420e8a1e680372 a7cb357de410e16b0aafb9b396eff70482ba9697 Pavel Mihaylov <pm@ecommlab.de> 1749134981 +0300	commit: Fix: Korrekturvorschläge unter Benutzer
+a7cb357de410e16b0aafb9b396eff70482ba9697 a7cb357de410e16b0aafb9b396eff70482ba9697 Pavel Mihaylov <pm@ecommlab.de> 1760357615 +0300	reset: moving to HEAD
+a7cb357de410e16b0aafb9b396eff70482ba9697 0af1635b052d35fae7836cbea26321977cf83f1a Pavel Mihaylov <pm@ecommlab.de> 1760357618 +0300	checkout: moving from feature/show-results-in-admin to master
+0af1635b052d35fae7836cbea26321977cf83f1a a7cb357de410e16b0aafb9b396eff70482ba9697 Pavel Mihaylov <pm@ecommlab.de> 1760357670 +0300	checkout: moving from master to feature/show-results-in-admin
+a7cb357de410e16b0aafb9b396eff70482ba9697 5d316f871f2ef45330e92c139a0b6d2a49a18705 Pavel Mihaylov <pm@ecommlab.de> 1760357685 +0300	checkout: moving from feature/show-results-in-admin to master
+5d316f871f2ef45330e92c139a0b6d2a49a18705 5d316f871f2ef45330e92c139a0b6d2a49a18705 Pavel Mihaylov <pm@ecommlab.de> 1760357769 +0300	checkout: moving from master to feature/issue-29-js-sdk-update
+5d316f871f2ef45330e92c139a0b6d2a49a18705 5d316f871f2ef45330e92c139a0b6d2a49a18705 Pavel Mihaylov <pm@ecommlab.de> 1760464672 +0300	reset: moving to HEAD
+5d316f871f2ef45330e92c139a0b6d2a49a18705 5d316f871f2ef45330e92c139a0b6d2a49a18705 Pavel Mihaylov <pm@ecommlab.de> 1760464691 +0300	checkout: moving from feature/issue-29-js-sdk-update to master
+5d316f871f2ef45330e92c139a0b6d2a49a18705 c793e02b4a159ac2ba0310683f658e7e787cbfd1 Pavel Mihaylov <pm@ecommlab.de> 1760464701 +0300	pull --log origin master: Fast-forward
+c793e02b4a159ac2ba0310683f658e7e787cbfd1 5d316f871f2ef45330e92c139a0b6d2a49a18705 Pavel Mihaylov <pm@ecommlab.de> 1760466495 +0300	checkout: moving from master to feature/issue-29-js-sdk-update
+5d316f871f2ef45330e92c139a0b6d2a49a18705 fbccd6cac0de2eaf8ea185d7cdc9b67bacf01053 Pavel Mihaylov <pm@ecommlab.de> 1764574595 +0200	commit: Finale Anpassungen
+fbccd6cac0de2eaf8ea185d7cdc9b67bacf01053 a7cb357de410e16b0aafb9b396eff70482ba9697 Pavel Mihaylov <pm@ecommlab.de> 1764574606 +0200	checkout: moving from feature/issue-29-js-sdk-update to feature/show-results-in-admin
+a7cb357de410e16b0aafb9b396eff70482ba9697 fbccd6cac0de2eaf8ea185d7cdc9b67bacf01053 Pavel Mihaylov <pm@ecommlab.de> 1764771164 +0200	checkout: moving from feature/show-results-in-admin to feature/issue-29-js-sdk-update
+fbccd6cac0de2eaf8ea185d7cdc9b67bacf01053 d3dca85543146ee914db25235767d50cf2209cac Pavel Mihaylov <pm@ecommlab.de> 1764774863 +0200	checkout: moving from feature/issue-29-js-sdk-update to feature/latest-sdk-fake-forms
+d3dca85543146ee914db25235767d50cf2209cac fc7889ea7d6c7c77c2cfa2fe9ac1e2602eed512d Pavel Mihaylov <pm@ecommlab.de> 1768286482 +0200	commit: Fix: Wenn Adressänderungen an der Adresse, die von PayPal übermittelt wurde vorzunehmen sind ist in Zukunft onAfterAddressPersisted zu verwenden
+fc7889ea7d6c7c77c2cfa2fe9ac1e2602eed512d c793e02b4a159ac2ba0310683f658e7e787cbfd1 Pavel Mihaylov <pm@ecommlab.de> 1768291945 +0200	checkout: moving from feature/latest-sdk-fake-forms to master
+c793e02b4a159ac2ba0310683f658e7e787cbfd1 a142ea0d0e63833a915d53219a4a675b21f6eec4 Pavel Mihaylov <pm@ecommlab.de> 1768291971 +0200	checkout: moving from master to feature/latest-sdk-fake-forms
+a142ea0d0e63833a915d53219a4a675b21f6eec4 74c30c17653fb9dbb636272d4123b547f2a88792 Pavel Mihaylov <pm@ecommlab.de> 1768293022 +0200	commit (amend): Update JS-SDK to latest version and adapt OXID forms
+74c30c17653fb9dbb636272d4123b547f2a88792 5d35f96abd10f840d74e347aed26cb029666bee6 Pavel Mihaylov <pm@ecommlab.de> 1771777941 +0200	commit: Update SDK to 1.14
+5d35f96abd10f840d74e347aed26cb029666bee6 c793e02b4a159ac2ba0310683f658e7e787cbfd1 Pavel Mihaylov <pm@ecommlab.de> 1771777950 +0200	checkout: moving from feature/latest-sdk-fake-forms to master
+c793e02b4a159ac2ba0310683f658e7e787cbfd1 89b759c5e8701b6d8646a44682962528f70a47ba Pavel Mihaylov <pm@ecommlab.de> 1771777958 +0200	pull --log origin master: Fast-forward
+89b759c5e8701b6d8646a44682962528f70a47ba 5d35f96abd10f840d74e347aed26cb029666bee6 Pavel Mihaylov <pm@ecommlab.de> 1771777963 +0200	checkout: moving from master to feature/latest-sdk-fake-forms
+5d35f96abd10f840d74e347aed26cb029666bee6 331808a409bb7cce6b74d895cb9148927efc8d74 Pavel Mihaylov <pm@ecommlab.de> 1771777968 +0200	merge master: Merge made by the 'ort' strategy.
+331808a409bb7cce6b74d895cb9148927efc8d74 89b759c5e8701b6d8646a44682962528f70a47ba Pavel Mihaylov <pm@ecommlab.de> 1772269087 +0200	checkout: moving from feature/latest-sdk-fake-forms to master
+89b759c5e8701b6d8646a44682962528f70a47ba 89b759c5e8701b6d8646a44682962528f70a47ba Pavel Mihaylov <pm@ecommlab.de> 1772269233 +0200	reset: moving to HEAD
+89b759c5e8701b6d8646a44682962528f70a47ba f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 Pavel Mihaylov <pm@ecommlab.de> 1772269263 +0200	reset: moving to f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76
+f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 Pavel Mihaylov <pm@ecommlab.de> 1772269292 +0200	reset: moving to HEAD
+f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 95fdb47584c7a2567e847072945318c94efff38b Pavel Mihaylov <pm@ecommlab.de> 1772269317 +0200	pull --log origin master: Fast-forward
+95fdb47584c7a2567e847072945318c94efff38b 8f5e6fc6c396967a160474e610a87f74b2c3511c Pavel Mihaylov <pm@ecommlab.de> 1772270012 +0200	commit: Fix QA tooling and code issues
+8f5e6fc6c396967a160474e610a87f74b2c3511c 8e6640b1d8750fd921ca3cf137f7c0b8c537515b Pavel Mihaylov <pm@ecommlab.de> 1772624921 +0200	commit: Extend qa tooling
+8e6640b1d8750fd921ca3cf137f7c0b8c537515b a48ef50997cc3ac8c2fda6913ebdc871f18ad327 Pavel Mihaylov <pm@ecommlab.de> 1772624939 +0200	checkout: moving from master to feature/extend-qa-tooling
+a48ef50997cc3ac8c2fda6913ebdc871f18ad327 8e6640b1d8750fd921ca3cf137f7c0b8c537515b Pavel Mihaylov <pm@ecommlab.de> 1772625003 +0200	checkout: moving from feature/extend-qa-tooling to master
+8e6640b1d8750fd921ca3cf137f7c0b8c537515b f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 Pavel Mihaylov <pm@ecommlab.de> 1772625012 +0200	reset: moving to f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76
+f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 Pavel Mihaylov <pm@ecommlab.de> 1772625024 +0200	reset: moving to HEAD
+f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 a48ef50997cc3ac8c2fda6913ebdc871f18ad327 Pavel Mihaylov <pm@ecommlab.de> 1772625519 +0200	checkout: moving from master to feature/extend-qa-tooling
+a48ef50997cc3ac8c2fda6913ebdc871f18ad327 8ee4f7be73768c32daf1a7cedd5e08625ef20549 Pavel Mihaylov <pm@ecommlab.de> 1772639606 +0200	commit: Übernahem Script von Micha - fetch-shops für Linux und MAC
+8ee4f7be73768c32daf1a7cedd5e08625ef20549 3c675c7dc40f3896de1471410986ab99df9fa0ae Pavel Mihaylov <pm@ecommlab.de> 1772639645 +0200	checkout: moving from feature/extend-qa-tooling to feature/update-sdk-1.14
+3c675c7dc40f3896de1471410986ab99df9fa0ae f3f7438d5f8afb03a13417aefe7b79969a48b70f Pavel Mihaylov <pm@ecommlab.de> 1772640165 +0200	commit (amend): Update SDK to 1.14
+f3f7438d5f8afb03a13417aefe7b79969a48b70f f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 Pavel Mihaylov <pm@ecommlab.de> 1772640554 +0200	checkout: moving from feature/update-sdk-1.14 to master
+f05a4a95fc8819cadbf8ccfe23dae40e28bdbe76 fecc212f424a8f1315abfd4dca4761d157e2436e Pavel Mihaylov <pm@ecommlab.de> 1772640626 +0200	pull --log origin master: Fast-forward
+fecc212f424a8f1315abfd4dca4761d157e2436e f3f7438d5f8afb03a13417aefe7b79969a48b70f Pavel Mihaylov <pm@ecommlab.de> 1772640629 +0200	checkout: moving from master to feature/update-sdk-1.14
+f3f7438d5f8afb03a13417aefe7b79969a48b70f 0e69bf97d69d8f3b1f225874bf48038091743cc2 Pavel Mihaylov <pm@ecommlab.de> 1772640637 +0200	pull --log origin feature/update-sdk-1.14: Fast-forward
+0e69bf97d69d8f3b1f225874bf48038091743cc2 fecc212f424a8f1315abfd4dca4761d157e2436e Pavel Mihaylov <pm@ecommlab.de> 1772640680 +0200	checkout: moving from feature/update-sdk-1.14 to master
+fecc212f424a8f1315abfd4dca4761d157e2436e 0e69bf97d69d8f3b1f225874bf48038091743cc2 Pavel Mihaylov <pm@ecommlab.de> 1772640719 +0200	checkout: moving from master to feature/update-sdk-1.14
+0e69bf97d69d8f3b1f225874bf48038091743cc2 fecc212f424a8f1315abfd4dca4761d157e2436e Pavel Mihaylov <pm@ecommlab.de> 1772640921 +0200	checkout: moving from feature/update-sdk-1.14 to master
+fecc212f424a8f1315abfd4dca4761d157e2436e fecc212f424a8f1315abfd4dca4761d157e2436e Pavel Mihaylov <pm@ecommlab.de> 1772640975 +0200	checkout: moving from master to feature/update-sdk-latest
+fecc212f424a8f1315abfd4dca4761d157e2436e 0e69bf97d69d8f3b1f225874bf48038091743cc2 Pavel Mihaylov <pm@ecommlab.de> 1772641009 +0200	checkout: moving from feature/update-sdk-latest to feature/update-sdk-1.14

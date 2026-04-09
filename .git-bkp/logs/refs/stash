@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c4d605a6326985a2f4d88a80c8d592f84141fa82 Pavel Mihaylov <pm@ecommlab.de> 1760357615 +0300	WIP on feature/show-results-in-admin: a7cb357 Fix: Korrekturvorschläge unter Benutzer
+c4d605a6326985a2f4d88a80c8d592f84141fa82 8319e262715d3a3058114fd9c7ccc1c257c4077d Pavel Mihaylov <pm@ecommlab.de> 1760464672 +0300	WIP on feature/issue-29-js-sdk-update: 5d316f8 Extension of the new Payment ID for the PayPal Checkout module.
+8319e262715d3a3058114fd9c7ccc1c257c4077d 2c2f63a33dff66e712ae7666a8173d1a6fe437d8 Pavel Mihaylov <pm@ecommlab.de> 1772269233 +0200	WIP on master: 89b759c Update JS-SDK to latest version and adapt OXID forms
+2c2f63a33dff66e712ae7666a8173d1a6fe437d8 efb2f56dfec2eb32edd959532ada0c2d01596a9e Pavel Mihaylov <pm@ecommlab.de> 1772269292 +0200	WIP on master: f05a4a9 Fix QA tooling and code issues

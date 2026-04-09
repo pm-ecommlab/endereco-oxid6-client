@@ -1,0 +1,9 @@
+Update SDK to 1.14
+
+Update JS-SDK to latest version and adapt OXID forms
+The JS-SDK was upgraded to latest version (~1.14) to include recent bug fixes
+and improvements.
+
+Reintroduce echo
+$isChanged to restore expected AJAX behavior that was
+unintentionally affected.

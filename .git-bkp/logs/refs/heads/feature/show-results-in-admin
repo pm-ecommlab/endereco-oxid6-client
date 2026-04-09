@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 57dae898707b748ebcb8aae4be6723b84e90bb62 Pavel Mihaylov <pm@ecommlab.de> 1747384586 +0300	branch: Created from origin/feature/show-results-in-admin
+57dae898707b748ebcb8aae4be6723b84e90bb62 a144a78e71600b65dc8239858f420e8a1e680372 Pavel Mihaylov <pm@ecommlab.de> 1748005167 +0300	commit: Anpassung - mojoamsts auf int casten
+a144a78e71600b65dc8239858f420e8a1e680372 a7cb357de410e16b0aafb9b396eff70482ba9697 Pavel Mihaylov <pm@ecommlab.de> 1749134981 +0300	commit: Fix: Korrekturvorschläge unter Benutzer

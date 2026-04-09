@@ -1,0 +1,9 @@
+0e69bf97d69d8f3b1f225874bf48038091743cc2		branch 'feature/update-sdk-1.14' of github.com:pm-ecommlab/endereco-oxid6-client
+8ee4f7be73768c32daf1a7cedd5e08625ef20549	not-for-merge	branch 'feature/extend-qa-tooling' of github.com:pm-ecommlab/endereco-oxid6-client
+331808a409bb7cce6b74d895cb9148927efc8d74	not-for-merge	branch 'feature/latest-sdk-fake-forms' of github.com:pm-ecommlab/endereco-oxid6-client
+1ad9b477e41c26d18bd4f876080792423b4f9d16	not-for-merge	branch 'feature/show-predictions-in-admin' of github.com:pm-ecommlab/endereco-oxid6-client
+a7cb357de410e16b0aafb9b396eff70482ba9697	not-for-merge	branch 'feature/show-results-in-admin' of github.com:pm-ecommlab/endereco-oxid6-client
+34b31f6d885d9b9147407a1151272a889568c2aa	not-for-merge	branch 'feature/update-js-sdk' of github.com:pm-ecommlab/endereco-oxid6-client
+992211e97e919558a3b62495a038f65e13ace1e1	not-for-merge	branch 'fix/base_js-block' of github.com:pm-ecommlab/endereco-oxid6-client
+4744ee2ee75ae22d82c789ec2822d671131b23f7	not-for-merge	branch 'fix/paypal-express-check' of github.com:pm-ecommlab/endereco-oxid6-client
+fecc212f424a8f1315abfd4dca4761d157e2436e	not-for-merge	branch 'master' of github.com:pm-ecommlab/endereco-oxid6-client
